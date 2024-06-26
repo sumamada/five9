@@ -1,4 +1,6 @@
+# namespace deploy file
 apiVersion: v1
 kind: Namespace
 metadata:
  name: valaxy
+
