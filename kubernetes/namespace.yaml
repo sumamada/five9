@@ -1,4 +1,4 @@
-# namespace deploy file update
+# namespace deploy file
 apiVersion: v1
 kind: Namespace
 metadata:
